@@ -1,0 +1,6 @@
+peft
+accelerate
+datasets
+trl
+bitsandbytes
+pandas
